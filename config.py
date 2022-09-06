@@ -18,7 +18,7 @@ class BaseConfig(object):
     # Client Id (Application Id) of the AAD app
     CLIENT_ID = 'e5c8122f-8a99-4095-ae60-a79c494c8905'
     
-    # Client Secret (App Secret) of the AAD app.  Required only for ServicePrincipal authentication mode.
+    # Client Secret (App Secret) of the AAD app. Required only for ServicePrincipal authentication mode.
     CLIENT_SECRET = 'nbP8Q~yxIdEy4l0frxbZdrrKt9OI0HxFdR9i8a1i'
     
     # Scope Base of AAD app. Use the below configuration to use all the permissions provided in the AAD app through Azure portal.
